@@ -1,3 +1,3 @@
 ProductName:	Mac OS X
-ProductVersion:	10.5.3
-BuildVersion:	9D34
+ProductVersion:	10.5.4
+BuildVersion:	9E17
